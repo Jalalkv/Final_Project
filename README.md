@@ -1,6 +1,7 @@
 # Final_Project
 
 ## Air Quality Levels in London and Paris: comparative analysis. 
+by Jalal Karimov
 
 My final project for Data Analytics bootcamp at Ironhack Berlin in 2021. 
 
@@ -27,3 +28,4 @@ My final project for Data Analytics bootcamp at Ironhack Berlin in 2021.
 - The datasets sets were very messy and I used mainly Pandas and Numpy for cleaning steps. 
 
 ***Visualization***
+- I visualized the findings on Tableau, which can be accessed [here](https://public.tableau.com/profile/jalal8120#!/vizhome/Final_ProjectAirQualityinLondonandParis/Story1)
