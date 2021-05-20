@@ -17,7 +17,7 @@ My final project for Data Analytics bootcamp at Ironhack Berlin in 2021.
 - London and Paris are Europe's two megacities and both cities experience poor air quality with systemic breaches of the Particles Matter 2.5 (PM2.5) and Nitrogen Dioxide (NO2) limits since many years. Due to the corona pandemic and resrtictions it has brought, air quality has been imporved worldwide in the last two years. Because of this reason, I tought referring to recent air quality information could be misleading and not reflect the real picture fully. That's why I have taken air quality data from 2019 for this comparison.  
 
 ***Research Questions*** 
-- Which city has most polluted air? 
+- Which city has most polluted air?: comparative analysis 
 
 ***Dataset*** 
 - For this reaseacrh, I used two main data sources:
