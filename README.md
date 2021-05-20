@@ -20,9 +20,9 @@ My final project for Data Analytics bootcamp at Ironhack Berlin in 2021.
 - Which city has most polluted air? 
 
 ***Dataset*** 
-For this reaseacrh, I used two main data sources:
+- For this reaseacrh, I used two main data sources:
 - [AIRPARIF](https://data-airparif-asso.opendata.arcgis.com/datasets/2019-pa04c?selectedAttribute=PA04C%3APM25)
-- GLOBAL CLEAN AIR (https://www.globalcleanair.org/data-to-action/london-uk/breathe-london-data/)
+- [GLOBAL CLEAN AIR] (https://www.globalcleanair.org/data-to-action/london-uk/breathe-london-data/)
 
 ***Cleaning***
 - The datasets sets were very messy and I used mainly Pandas and Numpy for cleaning steps. 
